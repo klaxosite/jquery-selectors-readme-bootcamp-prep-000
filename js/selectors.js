@@ -13,9 +13,9 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  
+  return $('');
 }
 
 function firstListItem(){
-  
+  return $('');
 }
